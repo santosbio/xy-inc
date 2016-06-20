@@ -1,0 +1,46 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "nome": "Lanchonete",
+      "x": 27,
+      "y": 12
+    },
+    {
+      "id": 2,
+      "nome": "Posto",
+      "x": 31,
+      "y": 18
+    },
+    {
+      "id": 3,
+      "nome": "Joalheria",
+      "x": 15,
+      "y": 12
+    },
+    {
+      "id": 4,
+      "nome": "Floricultura",
+      "x": 19,
+      "y": 21
+    },
+    {
+      "id": 5,
+      "nome": "Pub",
+      "x": 12,
+      "y": 8
+    },
+    {
+      "id": 6,
+      "nome": "Supermercado",
+      "x": 23,
+      "y": 6
+    },
+    {
+      "id": 7,
+      "nome": "Churrascaria",
+      "x": 28,
+      "y": 2
+    }
+  ]
+}
